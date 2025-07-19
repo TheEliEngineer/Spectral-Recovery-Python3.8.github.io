@@ -1,4 +1,4 @@
-# 🎧 Spectral Audio Restoration (NVSR-Inspired)
+# Spectral Audio Restoration (NVSR-Inspired)
 
 This project is a standalone spectral recovery tool that enhances audio recordings by restoring missing high-frequency content. It uses advanced DSP techniques inspired by neural audio super-resolution models like AudioSR and NVSR-ResUNet — but with no machine learning required.
 
@@ -14,16 +14,11 @@ This project is a standalone spectral recovery tool that enhances audio recordin
 
 ---
 
-## Demo (Audio Files)
-
-You can compare before and after audio examples in the `demo/` folder:
-
-- `demo/before.wav` – original low-quality or degraded audio
-- `demo/after.wav` – restored version with enhanced high frequencies
+Demo (Audio Files)
 
 ---
 
-## Installation
+Installation
 
 **Requirements:**
 
